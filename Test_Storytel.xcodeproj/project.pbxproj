@@ -175,8 +175,6 @@
 				FBAF38F52673C5F600974FE0 /* AppDelegate.swift */,
 				FBAF38F72673C5F600974FE0 /* SceneDelegate.swift */,
 				FBAF38FE2673C5F600974FE0 /* Assets.xcassets */,
-				FBAF39002673C5F600974FE0 /* LaunchScreen.storyboard */,
-				FBAF39252673C9F300974FE0 /* Main.storyboard */,
 				FBAF39032673C5F600974FE0 /* Info.plist */,
 			);
 			path = Test_Storytel;
@@ -215,6 +213,8 @@
 		FBAF392C2674C0CA00974FE0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				FBAF39002673C5F600974FE0 /* LaunchScreen.storyboard */,
+				FBAF39252673C9F300974FE0 /* Main.storyboard */,
 				FBAF39292674C08D00974FE0 /* BookCell.swift */,
 			);
 			path = View;
